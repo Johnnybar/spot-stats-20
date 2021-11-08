@@ -21,7 +21,7 @@ if (process.env.NODE_ENV != 'production') {
     client_id = process.env.CLIENT_ID; // Your client id
     client_secret = process.env.CLIENT_SECRET; // Your secret
     redirect_uri = process.env.REDIRECT_URI; // Your redirect uri
-    client_url = 'https://spot-stats.herokuapp.com/#';
+    client_url = 'https://spot-stats-heroku-20.herokuapp.com/#';
 }
 
 var generateRandomString = function(length) {
