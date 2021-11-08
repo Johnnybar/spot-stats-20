@@ -172,7 +172,7 @@ class App extends Component {
     if (process.env.NODE_ENV !== 'production') {
       anchor = 'http://www.localhost:5000/login'
     } else {
-      anchor = 'https://spot-stats.herokuapp.com/login';
+      anchor = 'https://spot-stats-heroku-20.herokuapp.com/login';
     }
     let artists;
     let tracks;
