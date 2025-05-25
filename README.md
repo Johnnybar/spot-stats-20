@@ -3,4 +3,4 @@
 
  Dynamic Spotify algorithm tool, allowing users to get listening statistics using interactive charts, generate recommendations based on artists and genres and create a customized search using their own taste
 
-![readme-spotstats](https://github.com/user-attachments/assets/105478b1-672f-434b-a45f-b9e12ade2a38)
+![readme-spotstats](https://github.com/user-attachments/assets/9e16297b-2c19-4fac-9302-c1221b75a232)
